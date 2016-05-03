@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./imitationofchris00lidd_0186.png"; bbox 0 0 1908 3006; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 943 477 1850 556">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 943 477 1850 556">
+     <span class='ocr_line' id='line_1_1' title="bbox 943 477 1850 556; baseline -0.007 -14"><span class='ocrx_word' id='word_1_1' title='bbox 943 501 945 511; x_wconf 62' lang='lat'><strong><em>¹</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1008 510 1042 523; x_wconf 78' lang='grc'><em>”</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1078 516 1093 530; x_wconf 67' lang='grc'><strong>’-</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1138 495 1175 541; x_wconf 80' lang='grc'><strong>·”.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1202 503 1270 542; x_wconf 62' lang='grc' dir='ltr'><strong>,ῆῖτ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1294 510 1346 556; x_wconf 49' lang='grc' dir='ltr'><strong>φτ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1366 488 1394 534; x_wconf 53' lang='lat' dir='ltr'><strong>fx</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1417 486 1506 543; x_wconf 48' lang='grc' dir='ltr'><strong>ῑυξιᾼ</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1531 500 1639 538; x_wconf 71' lang='grc' dir='ltr'><strong>ς’·’·Ι</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1667 477 1792 547; x_wconf 48' lang='grc' dir='ltr'><strong>ιτῖῗ(</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1819 477 1850 522; x_wconf 56' lang='grc'><strong>3”</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1063 563 1836 614">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1063 563 1836 614">
+     <span class='ocr_line' id='line_1_2' title="bbox 1063 563 1836 614; baseline 0 -9"><span class='ocrx_word' id='word_1_12' title='bbox 1063 572 1066 602; x_wconf 57' lang='grc' dir='ltr'>ἶ</span> <span class='ocrx_word' id='word_1_13' title='bbox 1127 575 1212 614; x_wconf 54' lang='grc'><strong>,(1.4</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1238 575 1266 609; x_wconf 61' lang='lat' dir='ltr'><strong>U</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1292 565 1407 614; x_wconf 43' lang='lat' dir='ltr'><strong>{1⁸⁴sp</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1432 563 1475 610; x_wconf 54' lang='lat'><strong>‘⁸²</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1501 570 1618 611; x_wconf 49' lang='lat' dir='ltr'><strong>„¹21¹ssae</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1647 565 1752 611; x_wconf 37' lang='lat' dir='ltr'><strong>Qun,</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 1792 603 1795 609; x_wconf 83' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 1830 580 1836 588; x_wconf 84' lang='lat'>&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1908 2996">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1908 2996">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1908 2996; baseline 0 0"><span class='ocrx_word' id='word_1_21' title='bbox 0 0 1908 2996; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
